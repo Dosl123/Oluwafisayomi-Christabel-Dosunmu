@@ -1,0 +1,14 @@
+# Oluwafisayomi-Christabel-Dosunmu
+All you need to know about me
+title: "Fisayo | Data Analyst Portfolio"
+
+description: "Data Analyst skilled in SQL, Power BI, and Excel, transforming data into actionable business insights."
+
+logo: "/assets/img/profile.jpg"
+
+show_downloads: false
+
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
